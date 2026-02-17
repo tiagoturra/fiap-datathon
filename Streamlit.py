@@ -95,8 +95,10 @@ st.markdown("""
 # Carregamento do modelo
 # ─────────────────────────────────────────────────────────────────────────────
 
-MODEL_PATH = Path("models/pipeline_completo.pkl")
-META_PATH  = Path("models/feature_names.pkl")
+# MODEL_PATH = Path("models/pipeline_completo.pkl")
+# META_PATH  = Path("models/feature_names.pkl")
+MODEL_PATH = os.path.join('./models', 'pipeline_completo.pkl')
+META_PATH  = os.path.join('./models', 'feature_names.pkl')
 
 
 @st.cache_resource
