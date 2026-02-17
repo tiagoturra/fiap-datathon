@@ -103,10 +103,10 @@ META_PATH  = os.path.join('./models', 'feature_names.pkl')
 
 @st.cache_resource
 def load_model():
-    if not MODEL_PATH.exists():
+    if not MODEL_PATH:
         return None, None
     pipeline = joblib.load(MODEL_PATH)
-    meta     = joblib.load(META_PATH) if META_PATH.exists() else {}
+    meta     = joblib.load(META_PATH) if META_PATH else {}
     return pipeline, meta
 
 
