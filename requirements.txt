@@ -1,4 +1,7 @@
-pandas
-numpy
+imbalanced-learn
+imblearn
+scikit-learn
 joblib
-sklearn
+numpy
+pandas
+streamlit
