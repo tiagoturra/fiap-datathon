@@ -1,8 +1,7 @@
-imbalanced-learn
-imblearn
-scikit-learn
-joblib
-numpy
-pandas
-streamlit
-altair<5
+imbalanced-learn==0.14.0
+imblearn==0.0
+scikit-learn==1.7.0
+joblib==1.5.1
+numpy==2.2.4
+pandas==2.3.0
+streamlit==1.50.0
