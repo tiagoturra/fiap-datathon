@@ -44,7 +44,8 @@ Base de dados e dicionário de dados disponíveis em [DATATHON](https://drive.go
 A sua entrega deve conter:
 
 * Link do GitHub contendo os códigos utilizados para a limpeza e análise de dados.
-  * [FIAP Datathon](https://github.com/tiagoturra/fiap-datathon)
+  * Repositório Principal: [FIAP Datathon](https://github.com/tiagoturra/fiap-datathon)
+  * Análise e manipulação dos dados: [Data Analysis](https://github.com/tiagoturra/fiap-datathon/blob/main/Data%20Analysis.ipynb)
 * Apresentação do storytelling em um formato de apresentação (pode ser um PPT ou PDF).
   * [Apresentação]()
 * Notebook Python com o modelo preditivo da análise de risco de defasagem, demonstrando as etapas de: feature engineering; separação dos dados em treino e teste; modelagem preditiva; avaliação dos resultados;
