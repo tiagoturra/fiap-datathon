@@ -47,7 +47,7 @@ A sua entrega deve conter:
   * Repositório Principal: [FIAP Datathon](https://github.com/tiagoturra/fiap-datathon)
   * Análise e manipulação dos dados: [Data Analysis](https://github.com/tiagoturra/fiap-datathon/blob/main/Data%20Analysis.ipynb)
 * Apresentação do storytelling em um formato de apresentação (pode ser um PPT ou PDF).
-  * [Apresentação]()
+  * [Resumo Executivo - Passos Mágicos](https://github.com/tiagoturra/fiap-datathon/blob/main/Resumo%20Executivo%20-%20Passos%20Mágicos.pdf)
 * Notebook Python com o modelo preditivo da análise de risco de defasagem, demonstrando as etapas de: feature engineering; separação dos dados em treino e teste; modelagem preditiva; avaliação dos resultados;
   * [Modelo Preditivo](https://github.com/tiagoturra/fiap-datathon/blob/main/ml_pipeline.ipynb)
 * Construir uma aplicação no Streamlit para disponibilizar o modelo treinado para a Passos Mágicos utilizar como solução preditiva via aplicação de dados. Deve ser realizado o deploy da aplicação no ambiente Community Cloud.
